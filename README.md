@@ -12,3 +12,4 @@
 ## Table of Contents
 
 - [Getting Started](getting-started/getting-started.md)
+- [Basics of Table](basics-of-table/basics-of-table.md)
