@@ -12,5 +12,3 @@
 ## Table of Contents
 
 - [Getting Started](getting-started/getting-started.md)
-
-
