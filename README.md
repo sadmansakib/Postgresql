@@ -13,3 +13,4 @@
 
 - [Getting Started](getting-started/getting-started.md)
 - [Basics of Table](basics-of-table/basics-of-table.md)
+- [Basics of Keywords](basic-of-keywords/basics-of-keywords.md)
