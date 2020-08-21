@@ -58,3 +58,18 @@ For example:
 ```sql
 SELECT first_name FROM dbName WHERE gender = 'male' AND country = 'Bangladesh';
 ```
+
+### **Comparision Operators**
+
+Comparision Operators are used to make logical and arithmatic operation under WHERE keywords to filter down data.
+
+
+| Operator 	|    Description    	|
+|:--------:	|:-----------------:	|
+|     <    	|     less than     	|
+|     >    	|     more than     	|
+|    <=    	|  less or equal to 	|
+|    =>    	| great or equal to 	|
+|     =    	|       equal       	|
+| <> or != 	|     not equal     	|
+
